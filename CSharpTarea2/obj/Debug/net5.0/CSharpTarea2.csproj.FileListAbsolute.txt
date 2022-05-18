@@ -1,0 +1,16 @@
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.exe
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.deps.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.runtimeconfig.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.runtimeconfig.dev.json
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\bin\Debug\net5.0\CSharpTarea2.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.csproj.AssemblyReference.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.AssemblyInfoInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.AssemblyInfo.cs
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.csproj.CoreCompileInputs.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\refint\CSharpTarea2.dll
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.pdb
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\CSharpTarea2.genruntimeconfig.cache
+D:\CursoHTML\Tareas\MVS 2022\C#\CSharpTarea2\CSharpTarea2\obj\Debug\net5.0\ref\CSharpTarea2.dll
