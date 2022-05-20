@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpTarea2.Interfaces
 {
-    internal interface Persona
+    public interface Persona
     {
         public string ID { get; set; }
         public string PrimerNombre { get; set; }
